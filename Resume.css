@@ -60,3 +60,17 @@ footer span a:hover{
 @media (max-width: 500px) {
     
 }
+
+
+
+
+.link a{
+    background: linear-gradient(to top,transparent,#17f3fd);
+    color: #111;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid black;
+}
